@@ -5,5 +5,7 @@ Carrissa Gloria Herman
 
 link website streamlit yang dibuat:  
 https://predictloanstatusuts.streamlit.app/  
+link repository github:  
+https://github.com/carcar88/UTS_ModelDep/tree/main  
 link ke google drive yang berisi semua file dan video:   
 https://drive.google.com/drive/folders/1f6tzTaJGaReEvKJCWi2vVkp3KsFClsMN?usp=sharing 
